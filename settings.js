@@ -50,11 +50,11 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || '✦•-A N A Y A-•✦' //ur bot name
+global.botname = process.env.BOT_NAME || '✦•-𝐉 𝐄 𝐄 𝐑 𝐘-•✦' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '923115425068' //ur owner number
+global.ownernumber = process.env.SUDO || '923465125306' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || '✦•-A N A Y A-•✦' //ur owner name
+global.ownername = process.env.SUDO_NAME || '✦•-𝐉 𝐄 𝐄 𝐑 𝐘-•✦' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -66,15 +66,15 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "✦•-A N A Y A-•✦"
+global.packname = process.env.PACK_NAME || "✦•-𝐉 𝐄 𝐄 𝐑 𝐘-•✦"
 //________________________________________________________________________________________________________
-global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝗔𝗡𝗔𝗬𝗔"
+global.author = process.env.AUTHER_NAME || "ᗰᗩᗪE ᗷY 𝐉 𝐄 𝐄 𝐑 𝐘"
 //________________________________________________________________________________________________________
-global.creator = process.env.GL_DEVS || "923115425068@s.whatsapp.net"
+global.creator = process.env.GL_DEVS || "923465125306@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923115425068"] // Premium User
+global.premium = process.env.GL_VIP || ["923465125306"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
